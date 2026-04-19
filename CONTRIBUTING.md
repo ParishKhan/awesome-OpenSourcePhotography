@@ -9,6 +9,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Tool must be open source.
 - The pull request and commit should have a useful title.
+- Tools that heavily rely on external AI systems are not allowed. 
 
 
 Thank you for your suggestions!
